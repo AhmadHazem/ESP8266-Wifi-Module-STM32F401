@@ -1,0 +1,4 @@
+../Src/UART_program.c:8:6:UART_vidInit	4	static
+../Src/UART_program.c:22:16:UART_udtTransmit	24	static
+../Src/UART_program.c:38:16:UART_udtTransmitNum	24	static
+../Src/UART_program.c:49:16:UART_udtReceive	24	static

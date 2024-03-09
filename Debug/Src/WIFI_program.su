@@ -1,0 +1,5 @@
+../Src/WIFI_program.c:13:6:WIFI_vidInit	16	static
+../Src/WIFI_program.c:31:16:WIFI_udtConnectToWIFI	16	static
+../Src/WIFI_program.c:43:16:WIFI_udtConnectToServer	16	static
+../Src/WIFI_program.c:54:16:WIFI_udtGetData	24	static
+../Src/WIFI_program.c:74:14:validate	120	static
