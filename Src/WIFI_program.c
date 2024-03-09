@@ -33,7 +33,7 @@ Std_ReturnType WIFI_udtConnectToWIFI (void)
 	uint8 u8LocalVar = 130u;
 	while(u8LocalVar == 130u)
 	{
-		UART_udtTransmit((uint8 *)"AT+CWJAP_CUR =\"HUAWEI Y9 Prime 2019\",\"2872001z\"");
+		UART_udtTransmit((uint8 *)"AT+CWJAP_CUR =\"Wifi_UserName\",\"Password\"");
 	    u8LocalVar = validate(10000u);
 	}
 
